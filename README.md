@@ -1,5 +1,6 @@
 # Lovefighter
 
-Play:
 https://unqueued.github.io/Lovefighter/
+
+![screenshot](screenshot.png)
 
